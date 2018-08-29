@@ -3,7 +3,7 @@ package br.usjt.sin.progmulti.atividadessi2018;
 import android.app.Activity;
 import android.os.Bundle;
 
-public class AcitivityB extends Activity {
+public class ActivityB extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

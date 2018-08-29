@@ -16,7 +16,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AcitivityB" />
+        <activity android:name=".ActivityB" />
         <activity android:name=".ActivityC"></activity>
         <activity android:name=".DialogActivity"
             android:theme="@android:style/Theme.Holo.Dialog" />
